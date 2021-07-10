@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+  background: #333;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+  border-bottom: #008ed6 3px solid;
+  opacity: 0.8;
+}
+.navbar-brand {
+  font-size: 1.7rem;
+  font-family: 'Roboto', sans-serif;
+}
+.navbar ul li a {
+  font-size: 1.1rem;
+  font-weight: normal;
+  color: white !important;
+}
+
+#home-section {
+  background: url('../img/home.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+#home-section .dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+#home-section .home-inner {
+  padding-top: 150px;
+}
+
+#home-section .card-form {
+  opacity: 0.85;
+}
+
+#home-section .fas,
+#create-section .fas {
+  color: #008ed6;
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#explore-section .fas,
+#share-section .fas {
+  background: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
