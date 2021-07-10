@@ -22,6 +22,8 @@
 
 ## About The Project
 
+<img src="img/ss.png" />
+
 A simple website landing page made with Bootstrap.
 I have used various bootstrap classes such as nav, grid, flex, card, form, modal and etc.
 
