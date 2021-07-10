@@ -32,7 +32,7 @@ Examples and simple projects I use while Bootstrap 4.
 
 - [SASS](https://www.npmjs.com/package/node-sass)
 
-- [BOOTSTRAP-4](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 <!-- LICENSE -->
 
