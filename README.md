@@ -22,7 +22,7 @@
 
 ## About The Project
 
-Examples and simple projects I use while Bootstrap 4.
+Examples and simple projects while I learning Bootstrap 4.
 
 ### Built With
 
@@ -30,7 +30,7 @@ Examples and simple projects I use while Bootstrap 4.
 
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 
-- [SASS](https://www.npmjs.com/package/node-sass)
+- [Sass](https://www.npmjs.com/package/node-sass)
 
 - [Bootstrap](https://getbootstrap.com/)
 
@@ -45,5 +45,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Mustafa Kadan - [@mtevfik41](https://twitter.com/mtevfik41) - mtevfik41@gmail.com
-
-Project Link: [https://github.com/mtevfik41/BootstrapPracticeBox](https://github.com/mtevfik41/BootstrapPracticeBox)
